@@ -1,5 +1,6 @@
 IFSComputation (https://github.com/chriswu1996/IFSComputation)
   *	An application that visualizes every iteration of any iterated fractal system
+  * Web version of the app on https://yuxin-wu.shinyapps.io/shiny/
 
 Williamsgraduates (https://github.com/chriswu1996/williamsgraduates)
   *	A package in R that analyzes the gender distribution of graduated Williams students and cross-examine their academic performances
