@@ -8,3 +8,6 @@ Williamsgraduates (https://github.com/chriswu1996/williamsgraduates)
 Mahjong AI (https://github.com/chriswu1996/mahjong)
   *	An AI algorithm for Mahjong
   * Decreased the computational load to linear time complexity by introducing a new encoding scheme for Mahjong tiles that tailors specifically to the rules of the game
+
+Microfs (https://github.com/chriswu1996/microfs)
+  * A FUSE wrapper that allows users to create utility filesystems in the language of their choice
